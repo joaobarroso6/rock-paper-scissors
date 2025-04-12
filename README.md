@@ -2,7 +2,7 @@
 
 A fun, interactive rock-paper-scissors game with both single-player and two-player modes. Built with vanilla JavaScript, HTML, and CSS.
 
-![Rock Paper Scissors Game](thumbnail.png))
+![Rock Paper Scissors Game](thumbnail.png)
 ## Features
 
 - **Two Game Modes**:
